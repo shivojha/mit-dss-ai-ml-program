@@ -7,7 +7,9 @@ Day 1: Program Onboarding, Curriculam Discussions, Olympus
 Python Experience:
 The percentage of success depends on how well you manage your learning in the program; success rate will be 100%. 
 
-Python is foundational to success in Machine Learning, not just for syntax but for its role in data manipulation, model building, and analysis.Why Python is Crucial in ML: 
+Python is foundational to success in Machine Learning, not just for syntax but for its role in data manipulation, model building, and analysis.
+
+Why Python is Crucial in ML: 
 
 1. Data Preparation & Manipulation – Cleaning and transforming data using Pandas & NumPy.
 2. Exploratory Data Analysis (EDA) – Visualizing trends with Matplotlib & Seaborn.
