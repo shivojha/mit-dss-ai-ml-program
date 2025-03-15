@@ -1,6 +1,7 @@
 # mit-dss-ai-ml-program
 MIT-DSS AI/M Program Details
-Day 1:
+
+Day 1: Program Onboarding, Curriculam Discusions, Olympus
 Python Experience:
 The percentage of success depends on how well you manage your learning in the program; success rate will be 100%. 
 Python is foundational to success in Machine Learning, not just for syntax but for its role in data manipulation, model building, and analysis.Why Python is Crucial in ML: 
